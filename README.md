@@ -11,3 +11,6 @@
 - #9 Admin page where you can create new data that you want to show on the page.
 - #10 Create a chat with socket.
 - #11 More coming soon...
+
+- Image below is some progression of what i've done.
+![alt text](image.png)
